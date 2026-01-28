@@ -17,8 +17,8 @@ variables:
   tag: '$(Build.BuildId)'
   
   # Azure service connection for deployment
-  azureServiceConnection: 'Azure subscription 1(2fa58bbc-3169-4969-a86f-c5a38a48b88d)'
-  webAppName: 'testazapp'
+  azureServiceConnection: 'azure-connection'
+  webAppName: 'test12oo'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
