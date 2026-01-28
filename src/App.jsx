@@ -41,7 +41,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React__llll3<______________/h1>
+      <h1>Vite + React__llll3______________/</h1>
       
       {/* Sezione API Data */}
       <div className="api-section" style={{ margin: '20px 0', padding: '20px', border: '1px solid #ccc', borderRadius: '8px' }}>
